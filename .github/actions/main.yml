@@ -1,0 +1,403 @@
+name: 100 Jobs Workflow
+on: [push]
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 1 has been triggered."
+  job2:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 2 has been triggered."
+  job3:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 3 has been triggered."
+  job4:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 4 has been triggered."
+  job5:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 5 has been triggered."
+  job6:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 6 has been triggered."
+  job7:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 7 has been triggered."
+  job8:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 8 has been triggered."
+  job9:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 9 has been triggered."
+  job10:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 10 has been triggered."
+  job11:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 11 has been triggered."
+  job12:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 12 has been triggered."
+  job13:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 13 has been triggered."
+  job14:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 14 has been triggered."
+  job15:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 15 has been triggered."
+  job16:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 16 has been triggered."
+  job17:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 17 has been triggered."
+  job18:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 18 has been triggered."
+  job19:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 19 has been triggered."
+  job20:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 20 has been triggered."
+  job21:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 21 has been triggered."
+  job22:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 22 has been triggered."
+  job23:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 23 has been triggered."
+  job24:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 24 has been triggered."
+  job25:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 25 has been triggered."
+  job26:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 26 has been triggered."
+  job27:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 27 has been triggered."
+  job28:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 28 has been triggered."
+  job29:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 29 has been triggered."
+  job30:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 30 has been triggered."
+  job31:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 31 has been triggered."
+  job32:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 32 has been triggered."
+  job33:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 33 has been triggered."
+  job34:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 34 has been triggered."
+  job35:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 35 has been triggered."
+  job36:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 36 has been triggered."
+  job37:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 37 has been triggered."
+  job38:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 38 has been triggered."
+  job39:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 39 has been triggered."
+  job40:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 40 has been triggered."
+  job41:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 41 has been triggered."
+  job42:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 42 has been triggered."
+  job43:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 43 has been triggered."
+  job44:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 44 has been triggered."
+  job45:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 45 has been triggered."
+  job46:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 46 has been triggered."
+  job47:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 47 has been triggered."
+  job48:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 48 has been triggered."
+  job49:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 49 has been triggered."
+  job50:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 50 has been triggered."
+  job51:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 51 has been triggered."
+  job52:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 52 has been triggered."
+  job53:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 53 has been triggered."
+  job54:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 54 has been triggered."
+  job55:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 55 has been triggered."
+  job56:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 56 has been triggered."
+  job57:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 57 has been triggered."
+  job58:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 58 has been triggered."
+  job59:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 59 has been triggered."
+  job60:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 60 has been triggered."
+  job61:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 61 has been triggered."
+  job62:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 62 has been triggered."
+  job63:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 63 has been triggered."
+  job64:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 64 has been triggered."
+  job65:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 65 has been triggered."
+  job66:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 66 has been triggered."
+  job67:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 67 has been triggered."
+  job68:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 68 has been triggered."
+  job69:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 69 has been triggered."
+  job70:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 70 has been triggered."
+  job71:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 71 has been triggered."
+  job72:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 72 has been triggered."
+  job73:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 73 has been triggered."
+  job74:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 74 has been triggered."
+  job75:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 75 has been triggered."
+  job76:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 76 has been triggered."
+  job77:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 77 has been triggered."
+  job78:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 78 has been triggered."
+  job79:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 79 has been triggered."
+  job80:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 80 has been triggered."
+  job81:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 81 has been triggered."
+  job82:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 82 has been triggered."
+  job83:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 83 has been triggered."
+  job84:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 84 has been triggered."
+  job85:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 85 has been triggered."
+  job86:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 86 has been triggered."
+  job87:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 87 has been triggered."
+  job88:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 88 has been triggered."
+  job89:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 89 has been triggered."
+  job90:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 90 has been triggered."
+  job91:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 91 has been triggered."
+  job92:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 92 has been triggered."
+  job93:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 93 has been triggered."
+  job94:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 94 has been triggered."
+  job95:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 95 has been triggered."
+  job96:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 96 has been triggered."
+  job97:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 97 has been triggered."
+  job98:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 98 has been triggered."
+  job99:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 99 has been triggered."
+  job100:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Job 100 has been triggered."
